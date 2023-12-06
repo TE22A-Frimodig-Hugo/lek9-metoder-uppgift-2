@@ -12,5 +12,7 @@ public class App {
     {
         double product = (double)tal1* tal2;
         return product;
+        
+
     }
 }
